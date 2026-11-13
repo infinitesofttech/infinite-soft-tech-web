@@ -1,0 +1,755 @@
+Infinite Soft Tech || AI Powered Mobile and Web Development Company
+<meta name="description"
+content="Aigence is the perfect solution for all AI agencies and Technology businesses. It is a sleek and modern AI HTML Template designed for AI agencies, tech consultants, machine learning firms, data science experts, AI developers, and all other AI-related businesses and websites." />
+<link
+href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;display=swap"
+rel="stylesheet">
+205,Emerald Complex, CG Road,
+ABD, India
+info@infinitesofttech.com
++91 94092 59294
+Get in Touch
+LinkedIn
+Instagram
+Youtube
+WhatsApp
+Product
+Infinite Employee - HRMS
+Vidyapeeth ERP
+Infinite E Commerce   -->
+Service
+Mobile App Development
+E Commerce Development
+Software Developmet
+Product Development
+Saas Development
+CRM Development
+Software Testing
+Cloud Development
+Portfolio
+Technology
+Backend Technology
+Python - Django
+Java - SpringBoot
+PHP - Laravel
+.Net
+NodeJS
+Frontend Technology
+React
+Javascript
+Angular
+Mobile
+React
+Native
+Flutter
+Android
+IOS
+Xamarin
+cloude & DevOps
+Amazon Web
+Services(AWS)
+Microsoft Azure
+Google Cloud Platform
+(GCP)
+Database
+MongoDB
+My SQL
+PostgreSQL
+Oracle
+Testing
+Selenium for
+Web
+Postman for API
+Appium for
+mobile
+Industries
+Education
+HealthCare
+Insurance
+Banking & Finance
+Retail & Lifestyle
+About
+About Us
+Contact Us
+Our Team
+Gallery
+FAQS
+Let's Talk AI
+Search
+Infinite Technology.
+Beyond Limits.
+Future-ready AI, Mobile App,Websites and software solution
+for mordern businesses.
+<div class="client-carousel__carousel aigence-owl__carousel owl-theme owl-carousel"
+data-owl-options='{
+"items": 5,
+"margin": 65,
+"smartSpeed": 700,
+"loop": true,
+"autoplay": 6000,
+"nav": false,
+"dots": false,
+"navText": ["  ","  "],
+"responsive":{
+"0":{
+"items": 2,
+"margin": 40
+"500":{
+"items": 3,
+"margin": 40
+"768":{
+"items": 3,
+"margin": 80
+"992":{
+"items": 4,
+"margin": 60
+"1200":{
+"items": 5,
+"margin": 109
+}'>
+<img src="assets/images/resources/Product-1.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/Product-1.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/Product-2.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/Product-2.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/Product-3.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/Product-3.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/Product-4.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/Product-4.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/Product-5.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/Product-5.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/Product-6.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/Product-6.png" alt="aigence"
+class="client-carousel__hover-image">
+New world of Innovative Products.
+<div class="services-one__bg__1"
+style="background-image: url(assets/images/shapes/services-bg-shape-1-1.png);">
+<div class="services-one__bg__2"
+style="background-image: url(assets/images/shapes/services-bg-shape-1-2.png);">
+Solutions That Power Our Growth
+As a pioneer software development company, we offer exclusive
+software development services for various enterprises. Our products are scalable,
+streamlined, and focused on your business goals.
+<div class="services-one__item services-one__item--3 wow fadeInRight"
+data-wow-duration="1500ms">
+<div class="service-card__bg__one"
+style="background-image: url(assets/images/shapes/service-card-bg-1-1.png);">
+<div class="service-card__bg__two"
+style="background-image: url(assets/images/shapes/service-card-bg-1-2.png);">
+class="icon-right-arrow">
+href="service-details.html?id=software">Website Development
+We extract actionable insights from data using
+machine learning and predictive analytics.
+<img src="assets/images/services/service-1-7.png"
+alt="AI-Driven Automation">
+<div class="services-one__item services-one__item--1 wow fadeInRight"
+data-wow-duration="1500ms">
+<div class="service-card__bg__one"
+style="background-image: url(assets/images/shapes/service-card-bg-1-1.png);">
+<div class="service-card__bg__two"
+style="background-image: url(assets/images/shapes/service-card-bg-1-2.png);">
+class="icon-right-arrow">
+App
+Development
+Expand your business globally by connecting it
+with your industrial mobile application.Making reaching many with a mobile
+app feasible.
+<div class="services-one__item services-one__item--2 wow fadeInRight"
+data-wow-duration="1500ms">
+<div class="service-card__bg__one"
+style="background-image: url(assets/images/shapes/service-card-bg-1-1.png);">
+<div class="service-card__bg__two"
+style="background-image: url(assets/images/shapes/service-card-bg-1-2.png);">
+class="icon-right-arrow">
+href="service-details.html?id=software">Software Development
+We design conversational agents to automate
+customer engagement, support queries, lead.
+More Services
+<div class="why-choose-three__bg__inner"
+style="background-image: url(assets/images/shapes/why-choose-bg-shape-3-1.png);">
+Next-Gen AI Solutions
+AI-Powered Apps
+Machine-based AI tools boost the operational
+flow of a business, offering them a power-packed environment of modern technology.
+class="icon-ai-connectivity">
+Intelligent Automation
+Intelligent automation is most effective at
+automating functions, reducing costs, and increasing business efficiency.
+Generative AI Solutions
+Generative AI is a form of intelligence that
+responds based on a large database stored within it.
+Data-Driven Insights
+Businesses gain more access to their data with
+AI-driven insights, helping them improve their operations and user experiences.
+We develop scalable and responsive software solutions by integrating  AI
+Tool  that promote business success.
+Discover More
+Our Clients Receive the Highest Quality Technology
+We are dedicated to delivering the highest quality service clients, ensuring that every
+interaction is marked by professionalism, expertise, and attention to detail.
+More Technology
+<div class="services-three__carousel aigence-owl__carousel aigence-owl__carousel--with-shadow aigence-owl__carousel--basic-nav owl-carousel owl-theme"
+data-owl-options='{
+"items": 1,
+"margin": 10,
+"loop": true,
+"smartSpeed": 700,
+"nav": false,
+"dots": false,
+"navText": ["  ","  "],
+"autoplay": true,
+"responsive": {
+"0": {
+"items": 1,
+"nav": true,
+"margin": 10
+"576": {
+"items": 1.4,
+"margin": 30
+"768": {
+"items": 1.8,
+"margin": 30
+"992": {
+"items": 2.55,
+"margin": 30
+"1200": {
+"items": 2.15,
+"margin": 30
+"1400": {
+"items": 2.15,
+"margin": 30
+"1600": {
+"items": 2.29,
+"margin": 30
+"1800": {
+"items": 2.66,
+"margin": 30
+}'>
+<img src="assets/images/shapes/service-card-shape-3-1.png" alt="shape"
+class="service-card-three__shape">
+Backend
+Technology
+Analytics"
+class="service-card-three__image">
+Python
+Java
+Node
+PHP
+Rust
+class="icon-right-arrow">
+<img src="assets/images/shapes/service-card-shape-3-1.png" alt="shape"
+class="service-card-three__shape">
+Frontend
+Technology
+Development"
+class="service-card-three__image">
+React
+JavaScript
+Angular
+Vue.js
+Next.js
+HTML
+class="icon-right-arrow">
+<img src="assets/images/shapes/service-card-shape-3-1.png" alt="shape"
+class="service-card-three__shape">
+Mobile
+Technology
+Mystery"
+class="service-card-three__image">
+React Native
+Flutter
+Kotlin
+Swift
+ionic
+And/Ios
+class="icon-right-arrow">
+<img src="assets/images/shapes/service-card-shape-3-1.png" alt="shape"
+class="service-card-three__shape">
+Database
+Integration"
+class="service-card-three__image">
+MongoDB
+PostgreSQL
+Firebase
+MySQL
+Oracle
+class="icon-right-arrow">
+<img src="assets/images/shapes/service-card-shape-3-1.png" alt="shape"
+class="service-card-three__shape">
+Testing
+Chatbots"
+class="service-card-three__image">
+Selenium
+Cypress
+Postman
+Swagger
+class="icon-right-arrow">
+<img src="assets/images/shapes/service-card-shape-3-1.png" alt="shape"
+class="service-card-three__shape">
+cloude &
+DevOps
+Automation"
+class="service-card-three__image">
+AWS
+Azure
+Digital Ocean
+HTML5
+CSS3
+Bootstrap
+class="icon-right-arrow">
+Industries We Serve
+<div class="client-carousel__carousel aigence-owl__carousel owl-theme owl-carousel" data-owl-options='{
+"items": 5,
+"margin": 65,
+"smartSpeed": 700,
+"loop": true,
+"autoplay": 6000,
+"nav": false,
+"dots": false,
+"navText": ["  ","  "],
+"responsive":{
+"0":{
+"items": 2,
+"margin": 40
+"500":{
+"items": 3,
+"margin": 40
+"768":{
+"items": 3,
+"margin": 80
+"992":{
+"items": 4,
+"margin": 60
+"1200":{
+"items": 5,
+"margin": 109
+}'>
+Healthcare
+Education
+Banking
+Retail
+Agriculture
+<div class="client-carousel__carousel aigence-owl__carousel owl-theme owl-carousel" data-owl-options='{
+"items": 5,
+"margin": 65,
+"smartSpeed": 700,
+"loop": true,
+"autoplay": 6000,
+"nav": false,
+"dots": false,
+"navText": ["  ","  "],
+"responsive":{
+"0":{
+"items": 2,
+"margin": 40
+"500":{
+"items": 3,
+"margin": 40
+"768":{
+"items": 3,
+"margin": 80
+"992":{
+"items": 4,
+"margin": 60
+"1200":{
+"items": 5,
+"margin": 109
+}'>
+Travel
+Hospitality
+Food & Restorant
+Entertainment
+Real Estate
+Leveraging AI to solve   real-world challenges, our   team blends
+creativity ,   expertise, and strategy to   drive innovation and growth.
+Data Evaluation and Intelligence
+By combining creativity, technical expertise, and
+strategic insight, we deliver solutions.
+Analytics and Business Insights
+Quick sync unlock meaningful moments of relaxation,
+but high turnaround rate, so nail it.
+<div class="about-one__video__bg"
+style="background-image: url(assets/images/about/about-1-1.png);">
+<a href="https://youtu.be/J_IacIun034?si=ESBukucSjmuo8HBq"
+class="about-one__video__btn video-popup">
+year of   experience
+<div class="funfact-one__bg-1"
+style="background-image: url(assets/images/shapes/funfact-bg-shape-1-1.png);">
+<div class="funfact-one__bg-2"
+style="background-image: url(assets/images/shapes/funfact-bg-shape-1-2.png);">
+<div class="funfact-one__carousel aigence-owl__carousel aigence-owl__carousel--basic-nav owl-carousel owl-theme"
+data-owl-options='{
+"items": 1,
+"margin": 10,
+"autoplay": true,
+"loop": false,
+"smartSpeed": 700,
+"nav": false,
+"dots": true,
+"navText": ["  ","  "],
+"responsive": {
+"0": {
+"items": 1,
+"nav": true,
+"dots": false
+"576": {
+"items": 2
+"768": {
+"items": 3
+"992": {
+"items": 4
+"1200": {
+"items": 5,
+"dots": false
+}'>
+<img src="assets/images/shapes/funfact-shape-1-1.png" alt="shape"
+class="funfact-one__item__shape">
+Industry Served
+<img src="assets/images/shapes/funfact-shape-1-2.png" alt="shape"
+class="funfact-one__item__shape">
+Repeat customer
+<img src="assets/images/shapes/funfact-shape-1-3.png" alt="shape"
+class="funfact-one__item__shape">
+IT Professional
+<img src="assets/images/shapes/funfact-shape-1-4.png" alt="shape"
+class="funfact-one__item__shape">
+CLIENT REVIEWS
+<img src="assets/images/shapes/funfact-shape-1-5.png" alt="shape"
+class="funfact-one__item__shape">
+Completed Project
+Happy Customers
+<div class="client-carousel__carousel aigence-owl__carousel owl-theme owl-carousel"
+data-owl-options='{
+"items": 5,
+"margin": 65,
+"smartSpeed": 700,
+"loop": true,
+"autoplay": 6000,
+"nav": false,
+"dots": false,
+"navText": ["  ","  "],
+"responsive":{
+"0":{
+"items": 2,
+"margin": 40
+"500":{
+"items": 3,
+"margin": 40
+"768":{
+"items": 3,
+"margin": 80
+"992":{
+"items": 4,
+"margin": 60
+"1200":{
+"items": 5,
+"margin": 109
+}'>
+<img src="assets/images/resources/brand-2-1.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/brand-2-1hover.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/brand-2-2.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/brand-2-2.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/brand-2-4.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/brand-2-4.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/brand-2-5.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/brand-2-5.png" alt="aigence"
+class="client-carousel__hover-image">
+<img src="assets/images/resources/brand-2-3.png" alt="aigence"
+class="client-carousel__image">
+<img src="assets/images/resources/brand-2-3.png" alt="aigence"
+class="client-carousel__hover-image">
+Our Portfolio
+All
+Mobile Apps
+Web
+Software
+Infinite Employee HRMS
+● LIVE
+Enterprise Workforce Suite
+Vidyapeeth ERP
+● LIVE
+Institutional Management
+Uma Papad
+● LIVE
+E-Commerce Platform
+Meet The Professionals   Behind Our Success
+<div class="team-one__carousel aigence-owl__carousel aigence-owl__carousel--with-shadow aigence-owl__carousel--basic-nav owl-carousel owl-theme"
+data-owl-options='{
+"items": 1,
+"margin": 10,
+"loop": true,
+"smartSpeed": 700,
+"nav": false,
+"dots": true,
+"navText": ["  ","  "],
+"autoplay": true,
+"responsive": {
+"0": {
+"items": 1,
+"nav": true,
+"dots": false,
+"margin": 10
+"768": {
+"items": 2,
+"margin": 30
+"992": {
+"items": 3,
+"dots": false,
+"margin": 30
+}'>
+Facebook
+Twitter X
+Pinterest
+Youtube
+Hardik Daki
+CEO & Founder
+Facebook
+Twitter X
+Pinterest
+Youtube
+Durgesh Jadav
+CTO & Founder
+Facebook
+Twitter X
+Pinterest
+Youtube
+Vinesh Jadav
+Business Head - Service
+Facebook
+Twitter X
+Pinterest
+Youtube
+Jainish Gamit
+React Developer
+Facebook
+Twitter X
+Pinterest
+Youtube
+Pratham Vaghela
+Python Developer
+Facebook
+Twitter X
+Pinterest
+Youtube
+Kenil Shah
+React Developer
+*AI-Driven Solutions
+*Unlocking AI’s Full Potential
+*Inspired by Innovation
+*AI Design Mastery
+*Turning Ideas into Reality
+*AI-Driven Solutions
+*Unlocking AI’s Full Potential
+*Inspired by Innovation
+*AI Design Mastery
+*Turning Ideas into Reality
+*AI-Driven Solutions
+*Unlocking AI’s Full Potential
+*Inspired by Innovation
+*AI Design Mastery
+*Turning Ideas into Reality
+<img src="assets/images/resources/why-choose-1-1.png" alt="why choose"
+class="why-choose__image__top">
+<img src="assets/images/shapes/why-choose-shape-1-1.png" alt="shape"
+class="why-choose__image__shape">
+Our Engagement Model
+At Infinite Soft
+Tech
+we provide full-cycle custom software development services to meet your financial
+requirements. Our software development team leverages their expertise in delivering
+process-oriented and high-performance software products for Cloud, Mobile, and Web.
+Dedicated Hiring
+Ideal for dynamic requirements, unclear scope, short-term consulting,
+POC.
+Time Material
+Best for full-time support, long-term projects, fast scaling, and expert
+development.
+Buckets Approach
+Convenient payment option after successful project completion.
+<img src="assets/images/resources/why-choose-1-2.png" alt="why choose"
+class="why-choose__inner__image wow fadeInUp" data-wow-duration="1500ms">
+Questions You Need   Answered?
+What software development services do you offer?
+What software development services do you offer?
+We offer different industry solutions and services such as: Mobile app
+development,Website development,UX/UI designing,SaaS development,CRM
+development.
+What is the average development cost and time?
+What is the average development cost and time?
+The average cost of development is around $200-$18,000, depending on your
+software type, business model, and other relevant factors. For a basic app,
+this development period spans between 3 and 6 months. But if you go with
+custom app development, the time and cost differ.
+Which hiring model do you provide?
+Which hiring model do you provide?
+We offer different hiring models catered to business needs. Basically, there
+are three types of hiring you can opt for:
+Dedicated team hiring,
+Fixed project cost,
+Hourly cost model.
+How do you ensure the security of my app?
+How do you ensure the security of my app?
+We rely on industry-standard security compliance to ensure that
+business-specific policies are followed. By utilizing multiple layers of
+encryption and third-party security systems, we provide comprehensive
+protection for your app.
+<div class="our-process__bg__1"
+style="background-image: url(assets/images/shapes/our-process-bg-shape-1-1.png);">
+<div class="our-process__bg__2"
+style="background-image: url(assets/images/shapes/our-process-bg-shape-1-2.png);">
+Exploring the Three Core Phases of our Process
+The AI Agency Audit
+evaluates your AI systems and strategies to identify improvements, optimize performance,
+and align with business goals for better efficiency and impact.
+Discover More
+Desing
+Step
+We design solutions that are scalable,
+secure, and user-focused. Requirement analysis UI/UX
+planning System architecture design Technology stack selection
+Develop
+Step
+We build robust applications using modern
+technologies. Frontend & backend development Database
+integration API development Security implementation Continuous
+testing
+Deliver
+Step
+We deliver results that drive growth and
+innovation. Quality assurance Performance optimization Cloud/server
+deployment Ongoing maintenance & support
+<div class="testimonials-one__bg"
+style="background-image: url(assets/images/shapes/testimonials-bg-shape-1-1.jpg);">
+What They Are Talking   About Infinite Soft
+Tech
+<div class="testimonials-one__carousel aigence-owl__carousel aigence-owl__carousel--with-shadow aigence-owl__carousel--basic-nav owl-carousel owl-theme"
+data-owl-options='{
+"items": 1,
+"margin": 10,
+"loop": true,
+"smartSpeed": 700,
+"nav": false,
+"dots": true,
+"navText": ["  ","  "],
+"autoplay": true,
+"responsive": {
+"0": {
+"items": 1,
+"nav": true,
+"dots": false,
+"margin": 10
+"992": {
+"items": 2,
+"margin": 30
+"1400": {
+"items": 3,
+"dots": false,
+"margin": 30
+}'>
+Our AI enables systems to perform tasks like
+problem-solving and language processing, often surpassing human capabilities.
+Ronald Richards
+Customer
+<img src="assets/images/team/team-1-2-.jpg" alt="Ronald Richards"
+class="testimonial-card__image">
+Just Photoshop out the dog, add a baby, and make
+the curtains blue make it pop i was wondering if my cat could be placed over the
+logo in the flyer, for.
+Martin Jhon
+Customer
+<img src="assets/images/team/team-1-6.jpg" alt="Martin Jhon"
+class="testimonial-card__image">
+There are many variations of passages about of
+Lorem Ipsum avalable, but the majority have suffered alteration free in some
+form, by injected humour or free.
+Kevin Martin
+Customer
+<img src="assets/images/team/team-2-1.png" alt="Kevin Martin"
+class="testimonial-card__image">
+We need to make the new version clean and sexy
+can you lower the price for the website? make it high quality and please use
+html.
+Jane Cooper
+Customer
+<img src="assets/images/team/team-1-4.png" alt="Jane Cooper"
+class="testimonial-card__image">
+All the Lorem Ipsum generators on the Internet
+tend to repeat predefined chunks as necessary, making this the first true
+generator on the Internet it uses.
+Nicola Scott
+Customer
+<img src="assets/images/team/team-1-5.jpg" alt="Nicola Scott"
+class="testimonial-card__image">
+Professional & Expert Cleaning Service cleaning
+or construction are cleaning passages this market Our expert team success
+available areas conservation.
+Mike Hardson
+Customer
+<img src="assets/images/team/team-1-6.jpg" alt="Mike Hardson"
+class="testimonial-card__image">
+<div class="newsletter__bg"
+style="background-image: url(assets/images/shapes/newsletter-bg-shape-1-1.png);">
+Starts Your First-Ever AI Software
+Development With Us!
+Get In Touch
+<div class="col-xl-3 col-lg-4 col-md-5 wow fadeInUp" data-wow-duration="1500ms"
+data-wow-delay="00ms">
+<div class="col-xl-3 col-lg-4 col-md-7 wow fadeInUp" data-wow-duration="1500ms"
+data-wow-delay="200ms">
+href="mailto:info@infinitesofttech.com">info@infinitesofttech.com
++91 9429259294
+<div class="col-xl-6 col-lg-4 col-md-7 wow fadeInUp" data-wow-duration="1500ms"
+data-wow-delay="100ms">
+Get in Touch
+Email
+Mobile
+WhatsApp
+LinkedIn
+Instagram
+Youtube
+<div class="col-lg-auto col-md-12 col-12 wow fadeInUp" data-wow-duration="1500ms"
+data-wow-delay="00ms">
+Beyond Technology. Into
+Infinite
+<div class="col-lg-auto col-md-6 col-sm-6 col-6 text-lg-center wow fadeInUp"
+data-wow-duration="1500ms" data-wow-delay="100ms">
+Links
+About
+Our Services
+Recent Projects
+Upcoming News
+Contact
+<div class="col-lg-auto col-md-6 col-sm-6 col-6 wow fadeInUp" data-wow-duration="1500ms"
+data-wow-delay="200ms">
+Explore
+Meet the Team
+Support
+Privacy Policy
+Terms of Use
+&copy;    Infinite Soft Tech. All Right Reserved
+<img src="assets/images/logo-light.png" width="150"
+alt="Aigence HTML" />
+info@infinitesofttech.com
++91 9409259294
+Facebook
+Twitter X
+Pinterest
+Youtube
+back top
