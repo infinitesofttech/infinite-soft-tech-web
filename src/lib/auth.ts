@@ -7,15 +7,15 @@ const SESSION_DAYS = 7;
 const isProd = process.env.NODE_ENV === "production";
 
 function getSecret(): Uint8Array | null {
-  const secret = process.env.AUTH_SECRET || (isProd ? "" : "local-development-secret-do-not-use-in-production");
+  const secret = (process.env.AUTH_SECRET ?? "").trim() || (isProd ? "" : "local-development-secret-do-not-use-in-production");
   if (!secret || secret.length < 16) return null;
   return new TextEncoder().encode(secret);
 }
 
 /** Admin credentials from environment variables. Local dev falls back to admin / admin123. */
 export function getAdminCredentials() {
-  const username = process.env.ADMIN_USERNAME || "admin";
-  const password = process.env.ADMIN_PASSWORD || (isProd ? "" : "admin123");
+  const username = (process.env.ADMIN_USERNAME ?? "").trim() || "admin";
+  const password = (process.env.ADMIN_PASSWORD ?? "").trim() || (isProd ? "" : "admin123");
   if (!password) return null;
   return { username, password };
 }
