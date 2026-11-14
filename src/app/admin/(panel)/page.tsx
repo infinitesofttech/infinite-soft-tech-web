@@ -31,7 +31,10 @@ export default async function AdminDashboard() {
   const counts = await Promise.all(
     COLLECTION_KEYS.map(async (k) => [k, (await readCollection(k).catch(() => [])).length] as const),
   );
-  const storage = getKV("content").kind;
+  let storage: string = "none";
+  try {
+    storage = getKV("content").kind;
+  } catch {}
 
   const weekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
   const cards = [
@@ -49,8 +52,8 @@ export default async function AdminDashboard() {
           <h1 className="mt-1 font-display text-3xl font-bold">Dashboard</h1>
         </div>
         <span className="inline-flex items-center gap-2 self-start rounded-full border border-line bg-white px-3 py-1.5 text-xs font-medium text-muted">
-          <span className={`h-2 w-2 rounded-full ${storage === "netlify-blobs" ? "bg-success" : "bg-amber-500"}`} />
-          Storage: {storage === "netlify-blobs" ? "Netlify Blobs (live)" : "Local files (.data folder)"}
+          <span className={`h-2 w-2 rounded-full ${storage !== "file" && storage !== "none" ? "bg-success" : "bg-amber-500"}`} />
+          Storage: {storage === "redis" ? "Upstash Redis (live)" : storage === "netlify-blobs" ? "Netlify Blobs (live)" : storage === "file" ? "Local files (.data folder)" : "Not configured"}
         </span>
       </div>
 

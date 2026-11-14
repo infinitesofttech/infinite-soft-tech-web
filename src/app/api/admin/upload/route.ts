@@ -8,7 +8,7 @@ const TYPES: Record<string, string> = {
   "image/gif": "gif",
   "image/avif": "avif",
 };
-const MAX_BYTES = 4 * 1024 * 1024;
+const MAX_BYTES = 700 * 1024;
 
 export async function POST(request: Request) {
   if (!(await authorizeAdminRequest(request))) return unauthorized();
@@ -23,7 +23,7 @@ export async function POST(request: Request) {
   if (!file) return Response.json({ error: "No file selected." }, { status: 400 });
   const ext = TYPES[file.type];
   if (!ext) return Response.json({ error: "Only PNG, JPG, WEBP, GIF or AVIF images are allowed." }, { status: 400 });
-  if (file.size > MAX_BYTES) return Response.json({ error: "Image must be smaller than 4 MB." }, { status: 400 });
+  if (file.size > MAX_BYTES) return Response.json({ error: "Image must be smaller than 700 KB. Please compress it first." }, { status: 400 });
 
   const key = `${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 8)}.${ext}`;
   try {
