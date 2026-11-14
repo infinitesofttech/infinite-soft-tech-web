@@ -22,8 +22,8 @@ export default async function AdminLoginPage() {
           <p className="mt-1 text-center text-sm text-muted">Sign in to manage leads and website content.</p>
           {!configured ? (
             <p className="mt-6 rounded-xl bg-amber-50 p-4 text-sm text-amber-800">
-              Admin login is not configured yet. Add <b>ADMIN_USERNAME</b>, <b>ADMIN_PASSWORD</b> and <b>AUTH_SECRET</b> in Netlify →
-              Site configuration → Environment variables, then redeploy.
+              Admin login is not configured yet. Add <b>ADMIN_USERNAME</b>, <b>ADMIN_PASSWORD</b> and <b>AUTH_SECRET</b> in your hosting (Vercel → Project →
+              Settings → Environment Variables; or Netlify → Site configuration), then redeploy.
             </p>
           ) : (
             <div className="mt-8">
