@@ -1,25 +1,23 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+# dependencies
+/node_modules
 
-node_modules
-dist
-dist-ssr
-*.local
+# next.js
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# local data store used by `npm run dev` (production uses Netlify Blobs)
+/.data/
+
+# netlify
 .netlify
+
+# env files
+.env
+.env.local
+.env*.local
+
+# misc
+.DS_Store
+*.log
