@@ -3,6 +3,7 @@
  * from the admin panel (/admin). Once saved from the admin panel, the stored
  * version (Netlify Blobs) is used instead of this file.
  */
+import { extraPosts } from "./seed-posts";
 import type {
   BlogPost,
   Client,
@@ -794,7 +795,7 @@ export const seedCollections: { [K in keyof CollectionMap]: CollectionMap[K][] }
   products,
   portfolio,
   internships,
-  blog,
+  blog: [...blog, ...extraPosts],
   team,
   testimonials,
   faqs,

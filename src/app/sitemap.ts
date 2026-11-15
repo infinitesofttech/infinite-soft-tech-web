@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getPublished } from "@/lib/content";
 import { absUrl } from "@/lib/seo";
+import { SOLUTIONS } from "@/lib/solutions";
 
 export const revalidate = 3600;
 
@@ -23,6 +24,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     ...staticPages.map((p) => ({ url: absUrl(p.path), lastModified: now, changeFrequency: p.freq, priority: p.priority })),
+    ...SOLUTIONS.map((s) => ({ url: absUrl(`/solutions/${s.slug}`), lastModified: now, changeFrequency: "monthly" as const, priority: 0.85 })),
     ...services.map((s) => ({ url: absUrl(`/services/${s.slug}`), lastModified: now, changeFrequency: "monthly" as const, priority: 0.85 })),
     ...products.map((p) => ({ url: absUrl(`/products/${p.slug}`), lastModified: now, changeFrequency: "monthly" as const, priority: 0.75 })),
     ...blog.map((b) => ({

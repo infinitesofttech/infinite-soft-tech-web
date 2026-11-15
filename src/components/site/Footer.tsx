@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ArrowRight, Clock, Mail, MapPin, Phone } from "lucide-react";
 import { SocialLinks } from "@/components/SocialIcons";
 import { Reveal } from "@/components/ui";
+import { SOLUTIONS } from "@/lib/solutions";
 import type { Service, Settings } from "@/lib/types";
 import { QuoteButton } from "./QuoteButton";
 
@@ -83,10 +84,17 @@ export function Footer({ settings: s, services }: { settings: Settings; services
           <div>
             <h3 className="font-display text-base font-semibold !text-white">Services</h3>
             <ul className="mt-5 space-y-3 text-[15px]">
-              {services.slice(0, 7).map((svc) => (
+              {services.slice(0, 5).map((svc) => (
                 <li key={svc.slug}>
                   <Link href={`/services/${svc.slug}`} className="link-underline transition hover:text-white">
                     {svc.title}
+                  </Link>
+                </li>
+              ))}
+              {SOLUTIONS.map((sol) => (
+                <li key={sol.slug}>
+                  <Link href={`/solutions/${sol.slug}`} className="link-underline transition hover:text-white">
+                    {sol.name}
                   </Link>
                 </li>
               ))}
