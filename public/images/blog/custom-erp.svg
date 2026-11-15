@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img">
+<defs>
+<linearGradient id="bgcustomerp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1026"/><stop offset="1" stop-color="#7b3aed"/></linearGradient>
+<linearGradient id="accustomerp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b44ff"/><stop offset=".55" stop-color="#7b3aed"/><stop offset="1" stop-color="#e8178c"/></linearGradient>
+<pattern id="grcustomerp" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".08"/></pattern>
+<filter id="shcustomerp" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0b1026" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="675" fill="url(#bgcustomerp)"/>
+<rect width="1200" height="675" fill="url(#grcustomerp)"/>
+<circle cx="1080" cy="80" r="260" fill="#e8178c" opacity=".25"/>
+<circle cx="90" cy="640" r="280" fill="#2b44ff" opacity=".35"/>
+<circle cx="1010" cy="560" r="120" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="22"/>
+
+<rect x="240" y="150" width="330" height="160" rx="30" fill="#2b44ff" filter="url(#shcustomerp)"/><rect x="600" y="150" width="330" height="160" rx="30" fill="#7b3aed" filter="url(#shcustomerp)"/><rect x="240" y="340" width="330" height="160" rx="30" fill="#e8178c" filter="url(#shcustomerp)"/><rect x="600" y="340" width="330" height="160" rx="30" fill="#12b76a" filter="url(#shcustomerp)"/>
+<text x="405" y="242" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="34" font-weight="800" fill="#fff">Sales</text><text x="765" y="242" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="34" font-weight="800" fill="#fff">Inventory</text><text x="405" y="432" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="34" font-weight="800" fill="#fff">HR</text><text x="765" y="432" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="34" font-weight="800" fill="#fff">Accounts</text>
+<circle cx="600" cy="320" r="52" fill="#fff" filter="url(#shcustomerp)"/><path d="M575 320h50m-25-25v50" stroke="#7b3aed" stroke-width="10" stroke-linecap="round"/>
+</svg>

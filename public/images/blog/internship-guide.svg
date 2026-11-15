@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img">
+<defs>
+<linearGradient id="bginternshipguide" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1026"/><stop offset="1" stop-color="#2b44ff"/></linearGradient>
+<linearGradient id="acinternshipguide" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b44ff"/><stop offset=".55" stop-color="#7b3aed"/><stop offset="1" stop-color="#e8178c"/></linearGradient>
+<pattern id="grinternshipguide" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".08"/></pattern>
+<filter id="shinternshipguide" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0b1026" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="675" fill="url(#bginternshipguide)"/>
+<rect width="1200" height="675" fill="url(#grinternshipguide)"/>
+<circle cx="1080" cy="80" r="260" fill="#e8178c" opacity=".25"/>
+<circle cx="90" cy="640" r="280" fill="#2b44ff" opacity=".35"/>
+<circle cx="1010" cy="560" r="120" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="22"/>
+
+<rect x="230" y="180" width="740" height="360" rx="26" fill="#1c2550" filter="url(#shinternshipguide)"/>
+<rect x="250" y="200" width="700" height="320" rx="14" fill="#0b1026"/>
+<rect x="280" y="236" width="170" height="16" rx="8" fill="#7b3aed"/><rect x="280" y="286" width="230" height="16" rx="8" fill="#e8178c"/><rect x="280" y="336" width="290" height="16" rx="8" fill="#2b44ff"/><rect x="280" y="386" width="350" height="16" rx="8" fill="#12b76a"/><rect x="280" y="436" width="410" height="16" rx="8" fill="#f5a524"/>
+<path d="M170 540h860l-40 36H210z" fill="#2a3470"/>
+<rect x="720" y="80" width="330" height="190" rx="26" fill="#fff" filter="url(#shinternshipguide)" />
+<path d="M885 110l-60 26 60 26 60-26z" fill="url(#acinternshipguide)"/><path d="M850 148v36c0 12 70 12 70 0v-36" fill="none" stroke="#7b3aed" stroke-width="7"/>
+<text x="885" y="232" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="22" font-weight="800" fill="#1c2550">Internship Certificate</text>
+</svg>

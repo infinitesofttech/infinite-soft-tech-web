@@ -610,6 +610,7 @@ const blog: BlogPost[] = [
   {
     id: "blog-1",
     slug: "custom-erp-vs-ready-made-erp",
+    cover: "/images/blog/custom-erp.svg",
     title: "Custom ERP vs Ready-Made ERP: Which Is Right for Your Business?",
     excerpt:
       "Spreadsheets and disconnected tools slowing you down? Here is a clear comparison of custom and off-the-shelf ERP — costs, flexibility and when each one makes sense.",
@@ -677,6 +678,7 @@ Not sure which option fits you? [Talk to our team](/contact) for a free consulta
   {
     id: "blog-2",
     slug: "mobile-app-development-cost-india",
+    cover: "/images/blog/mobile-app.svg",
     title: "How Much Does Mobile App Development Cost in India? A Practical Guide",
     excerpt:
       "App budgets vary widely. Learn what actually drives the cost of a mobile app, typical timelines and smart ways to launch faster without overspending.",
@@ -728,6 +730,7 @@ Have an app idea? [Share your requirements](/contact) and our team will reply wi
   {
     id: "blog-3",
     slug: "it-internship-in-ahmedabad-guide",
+    cover: "/images/blog/internship-guide.svg",
     title: "IT Internship in Ahmedabad: How Students Can Choose the Right Program",
     excerpt:
       "An internship can shape your entire tech career. Here is what to look for — live projects, mentorship, modern technology — and how to prepare before you apply.",

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img">
+<defs>
+<linearGradient id="bgcrm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c2550"/><stop offset="1" stop-color="#e8178c"/></linearGradient>
+<linearGradient id="accrm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b44ff"/><stop offset=".55" stop-color="#7b3aed"/><stop offset="1" stop-color="#e8178c"/></linearGradient>
+<pattern id="grcrm" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".08"/></pattern>
+<filter id="shcrm" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0b1026" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="675" fill="url(#bgcrm)"/>
+<rect width="1200" height="675" fill="url(#grcrm)"/>
+<circle cx="1080" cy="80" r="260" fill="#e8178c" opacity=".25"/>
+<circle cx="90" cy="640" r="280" fill="#2b44ff" opacity=".35"/>
+<circle cx="1010" cy="560" r="120" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="22"/>
+
+<rect x="150" y="130" width="520" height="420" rx="26" fill="#fff" filter="url(#shcrm)" />
+<text x="185" y="190" font-family='Poppins,Inter,Arial,sans-serif' font-size="26" font-weight="800" fill="#0b1026">Sales pipeline</text>
+<path d="M185 220h450l-60 70H245z" fill="#2b44ff"/><path d="M245 300h330l-50 70H295z" fill="#7b3aed"/><path d="M295 380h230l-40 70H335z" fill="#e8178c"/><path d="M335 460h150l-30 60H365z" fill="#12b76a"/>
+<text x="410" y="263" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="20" font-weight="700" fill="#fff">Enquiry</text>
+<text x="410" y="343" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="20" font-weight="700" fill="#fff">Quotation</text>
+<text x="410" y="423" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="20" font-weight="700" fill="#fff">Negotiation</text>
+<text x="410" y="498" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="20" font-weight="700" fill="#fff">Won</text>
+<rect x="730" y="160" width="320" height="150" rx="26" fill="#fff" filter="url(#shcrm)" />
+<circle cx="785" cy="215" r="26" fill="url(#accrm)"/><rect x="830" y="200" width="150" height="12" rx="6" fill="#e3e7f5" opacity="1"/><rect x="830" y="224" width="100" height="12" rx="6" fill="#e3e7f5" opacity="0.6"/><rect x="760" y="265" width="260" height="12" rx="6" fill="#e3e7f5" opacity="0.5"/>
+<rect x="760" y="340" width="320" height="150" rx="26" fill="#fff" filter="url(#shcrm)" />
+<circle cx="815" cy="395" r="26" fill="#12b76a"/><rect x="860" y="380" width="150" height="12" rx="6" fill="#e3e7f5" opacity="1"/><rect x="860" y="404" width="100" height="12" rx="6" fill="#e3e7f5" opacity="0.6"/><rect x="790" y="445" width="260" height="12" rx="6" fill="#e3e7f5" opacity="0.5"/>
+</svg>

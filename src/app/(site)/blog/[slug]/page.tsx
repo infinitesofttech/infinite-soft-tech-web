@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: post.seoDescription || post.excerpt,
     path: `/blog/${post.slug}`,
     keywords: post.tags,
-    image: post.cover || undefined,
+    image: post.cover && !post.cover.endsWith(".svg") ? post.cover : undefined,
     type: "article",
     publishedTime: post.date,
   });

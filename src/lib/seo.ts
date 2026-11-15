@@ -213,7 +213,7 @@ export function articleLd(post: BlogPost) {
     "@type": "BlogPosting",
     headline: post.title,
     description: post.excerpt,
-    image: [post.cover ? absUrl(post.cover) : absUrl(ogImageUrl(post.title))],
+    image: [post.cover && !post.cover.endsWith(".svg") ? absUrl(post.cover) : absUrl(ogImageUrl(post.title))],
     datePublished: post.date,
     dateModified: post.date,
     author: { "@type": "Organization", name: post.author || SITE_NAME, url: SITE_URL },

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img">
+<defs>
+<linearGradient id="bgmobileapp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c2550"/><stop offset="1" stop-color="#e8178c"/></linearGradient>
+<linearGradient id="acmobileapp" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b44ff"/><stop offset=".55" stop-color="#7b3aed"/><stop offset="1" stop-color="#e8178c"/></linearGradient>
+<pattern id="grmobileapp" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#fff" stroke-opacity=".08"/></pattern>
+<filter id="shmobileapp" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0b1026" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="675" fill="url(#bgmobileapp)"/>
+<rect width="1200" height="675" fill="url(#grmobileapp)"/>
+<circle cx="1080" cy="80" r="260" fill="#e8178c" opacity=".25"/>
+<circle cx="90" cy="640" r="280" fill="#2b44ff" opacity=".35"/>
+<circle cx="1010" cy="560" r="120" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="22"/>
+
+<rect x="430" y="60" width="340" height="560" rx="52" fill="#0b1026" filter="url(#shmobileapp)"/>
+<rect x="446" y="76" width="308" height="528" rx="40" fill="#fff"/>
+<rect x="540" y="92" width="120" height="26" rx="13" fill="#0b1026"/>
+<rect x="466" y="140" width="268" height="130" rx="22" fill="url(#acmobileapp)"/>
+<text x="490" y="190" font-family='Poppins,Inter,Arial,sans-serif' font-size="20" fill="#fff" opacity=".8">Today</text><text x="490" y="236" font-family='Poppins,Inter,Arial,sans-serif' font-size="44" font-weight="800" fill="#fff">₹48,250</text>
+<circle cx="496" cy="325" r="24" fill="#edf0fb"/><rect x="540" y="312" width="150" height="12" rx="6" fill="#e3e7f5" opacity="1"/><rect x="540" y="336" width="100" height="12" rx="6" fill="#e3e7f5" opacity="0.6"/><circle cx="496" cy="395" r="24" fill="#f4eeff"/><rect x="540" y="382" width="150" height="12" rx="6" fill="#e3e7f5" opacity="1"/><rect x="540" y="406" width="100" height="12" rx="6" fill="#e3e7f5" opacity="0.6"/><circle cx="496" cy="465" r="24" fill="#fff0f8"/><rect x="540" y="452" width="150" height="12" rx="6" fill="#e3e7f5" opacity="1"/><rect x="540" y="476" width="100" height="12" rx="6" fill="#e3e7f5" opacity="0.6"/>
+<rect x="466" y="540" width="268" height="44" rx="22" fill="#edf0fb"/>
+<rect x="130" y="220" width="250" height="120" rx="26" fill="#fff" filter="url(#shmobileapp)" /><rect x="160" y="287" width="30" height="28" rx="8" fill="url(#acmobileapp)"/><rect x="204" y="270.6666666666667" width="30" height="44.333333333333336" rx="8" fill="url(#acmobileapp)"/><rect x="248" y="280" width="30" height="35" rx="8" fill="url(#acmobileapp)"/><rect x="292" y="254.33333333333334" width="30" height="60.666666666666664" rx="8" fill="url(#acmobileapp)"/><rect x="336" y="266" width="30" height="49" rx="8" fill="url(#acmobileapp)"/>
+<rect x="830" y="360" width="240" height="120" rx="26" fill="#fff" filter="url(#shmobileapp)" /><text x="950" y="425" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="34" font-weight="800" fill="#2b44ff">Android</text><text x="950" y="458" text-anchor="middle" font-family='Poppins,Inter,Arial,sans-serif' font-size="22" fill="#6b7491">+ iOS</text>
+</svg>

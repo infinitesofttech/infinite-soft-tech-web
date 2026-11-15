@@ -6,6 +6,7 @@ export const extraPosts: BlogPost[] = [
   {
     id: "blog-4",
     slug: "erp-vs-tally-which-is-better-for-your-business",
+    cover: "/images/blog/erp-vs-tally.svg",
     title: "ERP vs Tally: Which Is Better for Your Business in India?",
     excerpt:
       "Tally is great for accounts, but is it enough once you have inventory, sales teams and production? A simple comparison to help you decide when to move to ERP.",
@@ -55,6 +56,7 @@ Our team has built ERP and HRMS products and can review your current process for
   {
     id: "blog-5",
     slug: "school-erp-software-features-and-cost-in-india",
+    cover: "/images/blog/school-erp.svg",
     title: "School ERP Software: Must-Have Features and What Affects the Cost",
     excerpt:
       "Choosing a school or college management system? Here are the features that really matter, and the factors that decide the price.",
@@ -103,6 +105,7 @@ A **ready product** is faster to start; a **customised ERP** fits your exact pro
   {
     id: "blog-6",
     slug: "how-to-choose-software-development-company-in-ahmedabad",
+    cover: "/images/blog/choose-company.svg",
     title: "How to Choose a Software Development Company in Ahmedabad",
     excerpt:
       "Ten practical questions to ask before you hire a software or app development company — so you avoid delays, hidden costs and poor quality.",
@@ -166,6 +169,7 @@ Infinite Soft Tech is based on CG Road, Ahmedabad and builds websites, mobile ap
   {
     id: "blog-7",
     slug: "crm-software-for-small-business-benefits",
+    cover: "/images/blog/crm.svg",
     title: "Why Your Business Needs CRM Software (and How to Start)",
     excerpt:
       "Lost leads, forgotten follow-ups and scattered customer data? A CRM fixes this. Here are the benefits and a simple way to begin.",
@@ -211,6 +215,7 @@ Ready-made tools are quick; a **custom CRM** matches your exact process and inte
   {
     id: "blog-8",
     slug: "website-development-cost-and-what-affects-it",
+    cover: "/images/blog/website-cost.svg",
     title: "Business Website Development: What Affects the Cost and Timeline",
     excerpt:
       "A simple website and a custom web portal are very different projects. Understand what drives price and delivery time before you ask for quotes.",
@@ -264,6 +269,7 @@ We build fast, SEO-ready websites with admin panels. See our [website developmen
   {
     id: "blog-9",
     slug: "best-technology-to-learn-for-it-internship",
+    cover: "/images/blog/internship-tech.svg",
     title: "Which Technology Should You Learn for an IT Internship? (MERN, Python, Java, Flutter)",
     excerpt:
       "Confused between MERN, Python, Java and Flutter? Here is a simple guide to pick the right technology for your first internship and job.",
