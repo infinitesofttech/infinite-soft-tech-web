@@ -7,6 +7,7 @@ export const NAV_LINKS = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About" },
   { href: "/services", label: "Services", mega: "services" as const },
+  { href: "/solutions", label: "ERP Solutions", mega: "solutions" as const },
   { href: "/products", label: "Products", mega: "products" as const },
   { href: "/portfolio", label: "Portfolio" },
   { href: "/internship", label: "Internship", badge: "Open" },
@@ -140,5 +141,5 @@ export const INTERNSHIP_STEPS = [
 export const BUDGET_OPTIONS = ["Below $500", "$500 – $1K", "$1K – $10K", "$10K – $50K", "Above $50K", "Not sure yet"];
 export const PROJECT_TYPES = ["New Project", "Existing Project", "Support & Maintenance"];
 export const STUDENT_YEARS = ["1st Year", "2nd Year", "3rd Year", "Final Year", "Graduated / Fresher"];
-export const INTERNSHIP_DURATIONS = ["1 Month", "45 Days", "3 Months", "6 Months"];
+export const INTERNSHIP_DURATIONS = ["2 Months", "3 Months", "6 Months"];
 export const INTERNSHIP_MODES = ["Offline (Ahmedabad office)", "Online", "Any"];

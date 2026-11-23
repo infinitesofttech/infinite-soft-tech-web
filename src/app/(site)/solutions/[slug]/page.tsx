@@ -63,6 +63,14 @@ export default async function SolutionPage({ params }: Props) {
           <QuoteButton service={s.service} className="btn btn-primary btn-lg">
             Book a Free Demo <ArrowRight className="arrow h-5 w-5" />
           </QuoteButton>
+          <a
+            href={`https://wa.me/${settings.whatsapp}?text=${encodeURIComponent(`Hi, I want a free demo of ${s.name}.`)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-outline btn-lg"
+          >
+            WhatsApp for Demo
+          </a>
           <a href={`tel:${settings.phone}`} className="btn btn-outline btn-lg">
             <Phone className="h-4 w-4" /> {settings.phoneDisplay}
           </a>

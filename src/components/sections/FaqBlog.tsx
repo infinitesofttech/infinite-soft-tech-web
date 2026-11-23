@@ -45,7 +45,7 @@ export function FaqSection({
                 </span>
                 <div>
                   <p className="font-display text-lg font-semibold">Still have questions?</p>
-                  <p className="text-sm text-white/60">We usually reply within a few hours.</p>
+                  <p className="text-sm text-white/60">We usually reply within 24 hours on working days.</p>
                 </div>
               </div>
               <div className="mt-6 flex flex-col gap-3 sm:flex-row">

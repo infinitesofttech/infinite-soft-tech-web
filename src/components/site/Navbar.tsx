@@ -7,6 +7,7 @@ import { useEffect, useRef, useState } from "react";
 import { ArrowRight, ChevronDown, Menu, Phone, X } from "lucide-react";
 import { Icon } from "@/components/Icon";
 import { NAV_LINKS, SERVICE_CATEGORIES } from "@/lib/site";
+import { SOLUTIONS } from "@/lib/solutions";
 import { cn } from "@/lib/utils";
 import { openQuote } from "./QuoteButton";
 
@@ -24,7 +25,7 @@ export interface NavProduct {
   icon: string;
 }
 
-type MenuKey = "services" | "products" | null;
+type MenuKey = "services" | "solutions" | "products" | null;
 
 export function Navbar({
   services,
@@ -230,6 +231,21 @@ export function Navbar({
               </div>
             </div>
           ) : null}
+          {menu === "solutions" ? (
+            <div className="ml-auto mr-[28%] w-[460px] rounded-3xl border border-line bg-white p-4 shadow-[0_30px_60px_-20px_rgba(16,24,64,0.25)]">
+              {SOLUTIONS.map((sol) => (
+                <Link key={sol.slug} href={`/solutions/${sol.slug}`} className="group flex items-center gap-4 rounded-2xl p-3 transition hover:bg-soft">
+                  <span className="icon-tile !h-12 !w-12">
+                    <Icon name={sol.icon} className="h-6 w-6" />
+                  </span>
+                  <span>
+                    <span className="block font-semibold text-ink group-hover:text-brand">{sol.name}</span>
+                    <span className="text-sm text-muted">Book a free demo</span>
+                  </span>
+                </Link>
+              ))}
+            </div>
+          ) : null}
           {menu === "products" ? (
             <div className="ml-auto mr-[22%] w-[460px] rounded-3xl border border-line bg-white p-4 shadow-[0_30px_60px_-20px_rgba(16,24,64,0.25)]">
               {products.map((p) => (
@@ -287,7 +303,9 @@ export function Navbar({
                   const items =
                     key === "services"
                       ? services.map((s) => ({ href: `/services/${s.slug}`, label: s.title, icon: s.icon }))
-                      : products.map((p) => ({ href: `/products/${p.slug}`, label: p.name, icon: p.icon }));
+                      : key === "solutions"
+                        ? SOLUTIONS.map((sol) => ({ href: `/solutions/${sol.slug}`, label: sol.name, icon: sol.icon }))
+                        : products.map((p) => ({ href: `/products/${p.slug}`, label: p.name, icon: p.icon }));
                   return (
                     <li key={link.href}>
                       <button
@@ -301,11 +319,13 @@ export function Navbar({
                       </button>
                       <div className={cn("grid transition-all duration-300", open ? "grid-rows-[1fr]" : "grid-rows-[0fr]")}>
                         <ul className="overflow-hidden pl-3">
-                          <li>
-                            <Link href={link.href} className="block rounded-lg px-4 py-2 text-sm font-semibold text-brand">
-                              View all {link.label.toLowerCase()}
-                            </Link>
-                          </li>
+                          {key !== "solutions" ? (
+                            <li>
+                              <Link href={link.href} className="block rounded-lg px-4 py-2 text-sm font-semibold text-brand">
+                                View all {link.label.toLowerCase()}
+                              </Link>
+                            </li>
+                          ) : null}
                           {items.map((item) => (
                             <li key={item.href}>
                               <Link href={item.href} className="flex items-center gap-3 rounded-lg px-4 py-2 text-[15px] text-body">
