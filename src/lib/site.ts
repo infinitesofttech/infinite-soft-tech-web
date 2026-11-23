@@ -138,7 +138,6 @@ export const INTERNSHIP_STEPS = [
   { title: "Get Certified", text: "Complete your project and receive your certificate." },
 ];
 
-export const BUDGET_OPTIONS = ["Below $500", "$500 – $1K", "$1K – $10K", "$10K – $50K", "Above $50K", "Not sure yet"];
 export const PROJECT_TYPES = ["New Project", "Existing Project", "Support & Maintenance"];
 export const STUDENT_YEARS = ["1st Year", "2nd Year", "3rd Year", "Final Year", "Graduated / Fresher"];
 export const INTERNSHIP_DURATIONS = ["2 Months", "3 Months", "6 Months"];

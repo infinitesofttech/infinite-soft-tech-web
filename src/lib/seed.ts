@@ -537,7 +537,7 @@ const faqs: Faq[] = [
     category: "General",
     question: "What is the average development cost and time?",
     answer:
-      "It depends on the type of software and your business model. Projects typically range from around $200 for a simple website to $18,000+ for complex custom platforms. A typical app takes around 3 to 6 months, while larger custom solutions vary. Share your requirements and we will send you a free, detailed estimate.",
+      "It depends on the type of software and your business model. Projects typically range from around ₹15,000 for a simple website to ₹15 lakh+ for complex custom platforms. A typical app takes around 3 to 6 months, while larger custom solutions vary. Share your requirements and we will send you a free, detailed estimate.",
     published: true,
   },
   {
@@ -703,7 +703,7 @@ Not sure which option fits you? [Talk to our team](/contact) for a free consulta
 
 ## Typical budget range
 
-Projects typically range from around **$200 for a simple website to $18,000+ for complex custom platforms**. Most business apps land somewhere in between depending on the factors above. The only way to get an accurate number is a short requirement discussion — which is why we always share a free, detailed estimate before you commit.
+Projects typically range from around **₹15,000 for a simple website to ₹15 lakh+ for complex custom platforms**. Most business apps land somewhere in between depending on the factors above. The only way to get an accurate number is a short requirement discussion — which is why we always share a free, detailed estimate before you commit.
 
 ## How long does it take?
 

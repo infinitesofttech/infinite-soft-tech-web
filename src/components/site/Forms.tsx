@@ -4,7 +4,6 @@ import { useEffect, useRef, useState, type FormEvent, type ReactNode } from "rea
 import { CircleCheck, LoaderCircle, Send } from "lucide-react";
 import { WhatsappIcon } from "@/components/SocialIcons";
 import {
-  BUDGET_OPTIONS,
   INTERNSHIP_DURATIONS,
   INTERNSHIP_MODES,
   PROJECT_TYPES,
@@ -163,7 +162,7 @@ export function LeadForm({
       <Field label="Company (optional)">
         <input name="company" maxLength={150} autoComplete="organization" className="field" placeholder="Company name" />
       </Field>
-      <Field label="Service you need">
+      <Field label="Service you need" className="sm:col-span-2">
         <select name="service" defaultValue={defaultService} className="field" key={defaultService}>
           <option value="">Select a service</option>
           {services.map((s) => (
@@ -172,14 +171,6 @@ export function LeadForm({
             </option>
           ))}
           <option value="Other">Other</option>
-        </select>
-      </Field>
-      <Field label="Budget">
-        <select name="budget" defaultValue="" className="field">
-          <option value="">Select budget</option>
-          {BUDGET_OPTIONS.map((b) => (
-            <option key={b}>{b}</option>
-          ))}
         </select>
       </Field>
       {!compact ? (
