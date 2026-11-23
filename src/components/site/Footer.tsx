@@ -61,7 +61,7 @@ export function Footer({ settings: s, services }: { settings: Settings; services
         <div className="container-x relative grid grid-cols-2 gap-x-6 gap-y-12 pb-14 lg:grid-cols-[1.4fr_1fr_1fr_1.3fr]">
           <div className="col-span-2 lg:col-span-1">
             <Link href="/" className="inline-block rounded-2xl bg-white px-4 py-3" aria-label="Infinite Soft Tech — Home">
-              <Image src="/images/logo.png" alt="Infinite Soft Tech logo" width={1100} height={400} sizes="160px" className="h-12 w-auto" />
+              <Image src="/images/logo.png" alt="Infinite Soft Tech logo" width={1200} height={300} sizes="160px" className="h-12 w-auto" />
             </Link>
             <p className="mt-6 max-w-[320px] text-[15px] leading-relaxed">
               AI-powered software company in Ahmedabad building websites, mobile apps, ERP, CRM and SaaS products for modern businesses.

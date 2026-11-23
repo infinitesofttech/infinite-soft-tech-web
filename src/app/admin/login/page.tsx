@@ -17,7 +17,7 @@ export default async function AdminLoginPage() {
       <div className="animate-blob pointer-events-none absolute -bottom-24 -right-24 h-96 w-96 rounded-full bg-pink/20 blur-3xl" aria-hidden="true" />
       <div className="relative w-full max-w-[420px]">
         <div className="card p-8 sm:p-10">
-          <Image src="/images/logo.png" alt="Infinite Soft Tech" width={1100} height={400} sizes="160px" className="mx-auto h-14 w-auto" />
+          <Image src="/images/logo.png" alt="Infinite Soft Tech" width={1200} height={300} sizes="160px" className="mx-auto h-14 w-auto" />
           <h1 className="mt-6 text-center font-display text-2xl font-bold">Admin Panel</h1>
           <p className="mt-1 text-center text-sm text-muted">Sign in to manage leads and website content.</p>
           {!configured ? (

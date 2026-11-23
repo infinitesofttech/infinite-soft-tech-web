@@ -12,7 +12,7 @@ export default function NotFound() {
       <div className="animate-blob pointer-events-none absolute -right-20 bottom-10 h-80 w-80 rounded-full bg-pink/15 blur-3xl" aria-hidden="true" />
       <div className="relative text-center">
         <Link href="/" className="inline-block">
-          <Image src="/images/logo.png" alt="Infinite Soft Tech" width={1100} height={400} sizes="160px" className="mx-auto h-14 w-auto" />
+          <Image src="/images/logo.png" alt="Infinite Soft Tech" width={1200} height={300} sizes="160px" className="mx-auto h-14 w-auto" />
         </Link>
         <p className="text-gradient-animated mt-10 font-display text-[120px] font-extrabold leading-none md:text-[160px]">404</p>
         <h1 className="mt-2 font-display text-3xl font-bold">This page went beyond limits.</h1>

@@ -99,11 +99,11 @@ export function Navbar({
           <Image
             src="/images/logo.png"
             alt="Infinite Soft Tech logo"
-            width={1100}
-            height={400}
+            width={1200}
+            height={300}
             preload
-            sizes="150px"
-            className="h-[46px] w-auto lg:h-[52px]"
+            sizes="180px"
+            className="h-[38px] w-auto lg:h-[44px]"
           />
         </Link>
 
@@ -284,7 +284,7 @@ export function Navbar({
           aria-label="Menu"
         >
           <div className="flex h-[72px] items-center justify-between border-b border-line px-5">
-            <Image src="/images/logo.png" alt="Infinite Soft Tech" width={1100} height={400} sizes="130px" className="h-10 w-auto" />
+            <Image src="/images/logo.png" alt="Infinite Soft Tech" width={1200} height={300} sizes="130px" className="h-10 w-auto" />
             <button
               type="button"
               className="flex h-10 w-10 items-center justify-center rounded-full border border-line"

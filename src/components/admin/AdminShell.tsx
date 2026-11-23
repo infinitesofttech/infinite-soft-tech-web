@@ -53,7 +53,7 @@ export function AdminShell({ username, children }: { username: string; children:
     <nav className="flex h-full flex-col">
       <div className="flex h-[72px] items-center justify-between px-5">
         <Link href="/admin" prefetch={false} className="rounded-xl bg-white px-3 py-2">
-          <Image src="/images/logo.png" alt="Infinite Soft Tech" width={1100} height={400} sizes="120px" className="h-8 w-auto" />
+          <Image src="/images/logo.png" alt="Infinite Soft Tech" width={1200} height={300} sizes="120px" className="h-8 w-auto" />
         </Link>
         <button type="button" className="text-white/70 lg:hidden" onClick={() => setOpen(false)} aria-label="Close menu">
           <X className="h-5 w-5" />
