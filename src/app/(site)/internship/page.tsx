@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { ArrowDown, GraduationCap, Mail, Phone } from "lucide-react";
 import { Icon } from "@/components/Icon";
+import { WhatsappIcon } from "@/components/SocialIcons";
 import { Accordion } from "@/components/sections/Accordion";
 import { ProgramCard } from "@/components/sections/Internship";
 import { InternshipForm } from "@/components/site/Forms";
@@ -8,6 +9,7 @@ import { Eyebrow, JsonLd, PageHero, Reveal, SectionHeading } from "@/components/
 import { getPublished, getSettings } from "@/lib/content";
 import { breadcrumbLd, coursesLd, faqLd, pageMetadata } from "@/lib/seo";
 import { INTERNSHIP_BENEFITS, INTERNSHIP_STEPS } from "@/lib/site";
+import { whatsappLink } from "@/lib/utils";
 
 export const metadata: Metadata = pageMetadata({
   title: "IT Internship in Ahmedabad with Live Projects",
@@ -54,6 +56,14 @@ export default async function InternshipPage() {
           </a>
           <a href="#programs" className="btn btn-outline btn-lg">
             Explore Programs
+          </a>
+          <a
+            href={whatsappLink(settings.whatsapp, "Hi Infinite Soft Tech, I want to know about the internship program.")}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-outline btn-lg"
+          >
+            <WhatsappIcon width={20} height={20} /> Ask on WhatsApp
           </a>
         </div>
       </PageHero>
