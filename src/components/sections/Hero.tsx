@@ -187,7 +187,7 @@ export function Hero({ settings: s }: { settings: Settings }) {
             className="mt-9 flex flex-col justify-center gap-3 sm:flex-row lg:justify-start"
           >
             <QuoteButton className="btn btn-primary btn-lg">
-              Get Free Quote <ArrowRight className="arrow h-5 w-5" />
+              Get Free Demo &amp; Quote <ArrowRight className="arrow h-5 w-5" />
             </QuoteButton>
             <Link href="/portfolio" className="btn btn-outline btn-lg">
               View Our Work
@@ -199,7 +199,7 @@ export function Hero({ settings: s }: { settings: Settings }) {
             style={{ "--d": "400ms" } as React.CSSProperties}
             className="mt-9 flex flex-wrap justify-center gap-x-6 gap-y-3 text-sm font-medium text-ink-3 lg:justify-start"
           >
-            {["Free consultation", "Agile delivery", "Post-launch support"].map((t) => (
+            {["Free demo + quote in 24 hrs", "Agile delivery", "Post-launch support"].map((t) => (
               <li key={t} className="flex items-center gap-2">
                 <CircleCheck className="h-[18px] w-[18px] text-success" /> {t}
               </li>

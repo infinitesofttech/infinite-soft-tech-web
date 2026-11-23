@@ -58,12 +58,12 @@ export default async function InternshipPage() {
             Explore Programs
           </a>
           <a
-            href={whatsappLink(settings.whatsapp, "Hi Infinite Soft Tech, I want to know about the internship program.")}
+            href={whatsappLink(settings.whatsapp, "Hi Infinite Soft Tech, I want to book a free demo class for the internship program.")}
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-outline btn-lg"
           >
-            <WhatsappIcon width={20} height={20} /> Ask on WhatsApp
+            <WhatsappIcon width={20} height={20} /> Book Free Demo Class
           </a>
         </div>
       </PageHero>
